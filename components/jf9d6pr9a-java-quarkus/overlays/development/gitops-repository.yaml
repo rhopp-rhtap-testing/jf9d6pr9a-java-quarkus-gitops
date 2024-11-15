@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: jf9d6pr9a-java-quarkus-gitops-repository
+spec:
+  url: https://github.com/rhopp-rhtap-testing/jf9d6pr9a-java-quarkus-gitops
